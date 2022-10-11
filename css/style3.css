@@ -1,0 +1,100 @@
+
+
+/*body{
+	min-height: 2000px;
+}*/
+.navbar{
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+/*body{
+  width: 100%;
+  min-width: fit-content;
+}*/
+
+.jumbotron{
+  padding-top: 8rem;
+  /*background-color: rgba(0, 0, 0, 0.3);*/
+  background-image: url('img/pacto.jpg');
+  /*background-color: black;*/
+  /*opacity:  0.8;*/
+  
+  
+  /*background-color: #2d251f;*/
+  /*background color: hsl(0, 0%, 94%);*/
+  /*background-size: 100% 100%;
+  margin: inherit;*/
+}
+
+.jumbotron:focus{
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+/*.jumbotron:hover:after{
+  content: ' ';
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.3);
+
+}
+*/
+/*padding-top: 6rem;  2rem= atas&bawah 1rem= kiri&kanan */
+/*background-color: #8F8580; 786d5f*/
+/*kalo titik tuh sm dengan kelas aka class*/
+
+/*#projects{*/
+	/*background-color: @e2edff;*/
+	/*#C3C3C3*/
+	/*Kalau id, berarti pake # dipanggilnya*/
+/*}*/
+
+/*#carousel-item{
+  background-color: rgba(0, 0, 0, 0.6);
+}*/
+/*.carousel-control-prev{
+  background-color: rgba(0, 0, 0, 0.6);
+  background-color: hsl(0, 0%, 94%);
+}*/
+
+#about{
+  width: 100%;
+  /*background-color: @#7FA0B1;*/
+}
+
+.progress{
+	background-color: #8F8580;
+}
+
+section{
+	padding-top: 6rem;
+}
+
+/*Icon Button Social Media*/
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 60px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 5px;
+  border-radius: 50%;
+}
+.fa:hover {
+  opacity: 0.7;
+}
+.fa-instagram {
+  background: #f39998;
+  color: white;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-github {
+  background: #1a1613;
+  color: white;
+}
